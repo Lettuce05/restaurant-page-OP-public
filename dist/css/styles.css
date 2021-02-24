@@ -367,7 +367,6 @@ nav {
 
 .contact-screen {
   display: flex;
-  margin-top: 83px;
 }
 
 .map {
@@ -430,6 +429,10 @@ nav {
 }
 
 @media (max-width: 600px) {
+  .contact-screen {
+    display: flex;
+    margin-top: 83px;
+  }
   .map {
     display: none;
   }
