@@ -1,0 +1,26 @@
+{
+  "name": "restaurant-page-OP",
+  "version": "1.0.0",
+  "description": "Restaurant Page for the Odin Project. Goal of the project is to practice making and working with ES6 modules, as well as working with a bundler like webpack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lettuce05/restaurant-page-OP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lettuce05/restaurant-page-OP/issues"
+  },
+  "homepage": "https://github.com/Lettuce05/restaurant-page-OP#readme",
+  "devDependencies": {
+    "webpack": "^5.18.0",
+    "webpack-cli": "^4.4.0"
+  }
+}
