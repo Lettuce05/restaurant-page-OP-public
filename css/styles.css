@@ -530,14 +530,17 @@ nav {
     justify-content: center;
     margin-right: 0;
   }
-  .article-photo > img {
-    object-fit: contain;
-  }
   .article-info {
     width: 90%;
     max-width: 500px;
   }
   .article-title {
     font-size: 32px;
+  }
+}
+
+@media (max-width: 500px) {
+  .article-photo > img {
+    max-height: 300px;
   }
 }
