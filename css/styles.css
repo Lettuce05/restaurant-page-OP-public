@@ -529,8 +529,9 @@ nav {
     width: 90%;
     justify-content: center;
     margin-right: 0;
-    height: auto;
-    object-fit: cover;
+  }
+  .article-photo > img {
+    object-fit: contain;
   }
   .article-info {
     width: 90%;
