@@ -367,6 +367,7 @@ nav {
 
 .contact-screen {
   display: flex;
+  margin-top: 83px;
 }
 
 .map {
@@ -528,6 +529,8 @@ nav {
     width: 90%;
     justify-content: center;
     margin-right: 0;
+    height: auto;
+    object-fit: cover;
   }
   .article-info {
     width: 90%;
