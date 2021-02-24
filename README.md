@@ -6,3 +6,18 @@ Technologies: HTML, CSS, JS
 [**Live Demo**](https://lettuce05.github.io/restaurant-page-OP-public/)
 
 
+## Main Screen
+![Main Screen preview](https://raw.githubusercontent.com/Lettuce05/restaurant-page-OP-public/main/img/git-restaurant.PNG)
+
+## Our Story Screen
+![Our Story Screen preview](https://raw.githubusercontent.com/Lettuce05/restaurant-page-OP-public/main/img/git-rest-ourStory.PNG)
+
+## Menu Screen
+![Menu Screen preview](https://raw.githubusercontent.com/Lettuce05/restaurant-page-OP-public/main/img/git-rest-menu.PNG)
+
+## Contact Us Screen
+![Contact Screen preview](https://raw.githubusercontent.com/Lettuce05/restaurant-page-OP-public/main/img/git-rest-contact.PNG)
+
+
+## News Screen
+![Contact Screen preview](https://raw.githubusercontent.com/Lettuce05/restaurant-page-OP-public/main/img/git-rest-news.PNG)
